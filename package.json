@@ -1,17 +1,43 @@
 {
-  "name": "rnlibtest-react-native",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "rnlibtest-react-native",
+  "_id": "rnlibtest-react-native@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-2A0mD2ZVUw8RMpJNaoGXYMsVAt2RyCi5p+4nZqfemdg6rwhEHuZ0oKRms1HI3qAQI8cjW7BurvPL9K3HgCOeiA==",
+  "_location": "/rnlibtest-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rnlibtest-react-native",
+    "name": "rnlibtest-react-native",
+    "escapedName": "rnlibtest-react-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rnlibtest-react-native/-/rnlibtest-react-native-1.0.0.tgz",
+  "_shasum": "d4fabe41acbf70627e4f8162fa5865910b5e00de",
+  "_spec": "rnlibtest-react-native",
+  "_where": "/Users/lihuanan/Desktop/react-native/a",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "name": "rnlibtest-react-native",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
